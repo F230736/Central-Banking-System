@@ -259,15 +259,3 @@ Possible future enhancements:
 * Mobile Responsive UI Enhancements
 * Dark/Light Theme Toggle
 * AI Fraud Detection
-
----
-
-# 👨‍💻 Author
-
-Developed as a Web Programming MERN Stack Project.
-
----
-
-# 📜 License
-
-This project is for educational purposes only.
